@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4d9b"
+  },
+  "name": "Reliance Industries Ltd",
+  "subSector": "Oil & Gas - Refining & Marketing",
+  "marketCap": 1980522.2
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4d9c"
+  },
+  "name": "Tata Consultancy Services Ltd",
+  "subSector": "IT Services & Consulting",
+  "marketCap": 1518493.24
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4d9d"
+  },
+  "name": "HDFC Bank Ltd",
+  "subSector": "Private Banks",
+  "marketCap": 1221234.6
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4d9e"
+  },
+  "name": "Bharti Airtel Ltd",
+  "subSector": "Telecom Services",
+  "marketCap": 872522
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4d9f"
+  },
+  "name": "ICICI Bank Ltd",
+  "subSector": "Private Banks",
+  "marketCap": 822666.37
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da0"
+  },
+  "name": "Infosys Ltd",
+  "subSector": "IT Services & Consulting",
+  "marketCap": 744480.14
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da1"
+  },
+  "name": "State Bank of India",
+  "subSector": "Public Banks",
+  "marketCap": 711782.46
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da2"
+  },
+  "name": "Hindustan Unilever Ltd",
+  "subSector": "FMCG - Household Products",
+  "marketCap": 644116.95
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da3"
+  },
+  "name": "ITC Ltd",
+  "subSector": "FMCG - Tobacco",
+  "marketCap": 612731.81
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da4"
+  },
+  "name": "Larsen and Toubro Ltd",
+  "subSector": "Construction & Engineering",
+  "marketCap": 488370.69
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da5"
+  },
+  "name": "HDFC Asset Management Company Ltd",
+  "subSector": "Asset Management",
+  "marketCap": 88478.63
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da6"
+  },
+  "name": "Aurobindo Pharma Ltd",
+  "subSector": "Pharmaceuticals",
+  "marketCap": 88230.64
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da7"
+  },
+  "name": "Mankind Pharma Ltd",
+  "subSector": "Pharmaceuticals",
+  "marketCap": 87164.18
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da8"
+  },
+  "name": "Indian Hotels Company Ltd",
+  "subSector": "Hotels, Resorts & Cruise Lines",
+  "marketCap": 86936.12
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4da9"
+  },
+  "name": "Max Healthcare Institute Ltd",
+  "subSector": "Hospitals & Diagnostic Centres",
+  "marketCap": 84392.33
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4daa"
+  },
+  "name": "Torrent Power Ltd",
+  "subSector": "Power Transmission & Distribution",
+  "marketCap": 82291.21
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4dab"
+  },
+  "name": "Godrej Properties Ltd",
+  "subSector": "Real Estate",
+  "marketCap": 80636.52
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4dac"
+  },
+  "name": "Hindustan Petroleum Corp Ltd",
+  "subSector": "Oil & Gas - Refining & Marketing",
+  "marketCap": 79016.69
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4dad"
+  },
+  "name": "Tube Investments of India Ltd",
+  "subSector": "Cycles",
+  "marketCap": 76862.5
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4dae"
+  },
+  "name": "Yes Bank Ltd",
+  "subSector": "Private Banks",
+  "marketCap": 75559.16
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4daf"
+  },
+  "name": "Global Health Ltd",
+  "subSector": "Hospitals & Diagnostic Centres",
+  "marketCap": 29136.05
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db0"
+  },
+  "name": "Amara Raja Energy & Mobility Ltd",
+  "subSector": "Batteries",
+  "marketCap": 28659.94
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db1"
+  },
+  "name": "Crompton Greaves Consumer Electricals Ltd",
+  "subSector": "Home Electronics & Appliances",
+  "marketCap": 28071.25
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db2"
+  },
+  "name": "ITI Ltd",
+  "subSector": "Telecom Equipments",
+  "marketCap": 27548.63
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db3"
+  },
+  "name": "Natco Pharma Ltd",
+  "subSector": "Pharmaceuticals",
+  "marketCap": 26420.5
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db4"
+  },
+  "name": "Central Depository Services (India) Ltd",
+  "subSector": "Stock Exchanges & Ratings",
+  "marketCap": 26420.21
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db5"
+  },
+  "name": "Ircon International Ltd",
+  "subSector": "Construction & Engineering",
+  "marketCap": 25224.63
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db6"
+  },
+  "name": "Triveni Turbine Ltd",
+  "subSector": "Heavy Electrical Equipments",
+  "marketCap": 25018.5
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db7"
+  },
+  "name": "Castrol India Ltd",
+  "subSector": "Commodity Chemicals",
+  "marketCap": 24757.73
+},
+{
+  "_id": {
+    "$oid": "66bbcb1f8caa5cb6f88a4db8"
+  },
+  "name": "Piramal Pharma Ltd",
+  "subSector": "Pharmaceuticals",
+  "marketCap": 24642.68
+}]
