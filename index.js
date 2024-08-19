@@ -6,7 +6,7 @@ const Stock = require('./models/stock'); // Import the Stock model
 
 const app = express();
 app.use(cors({
-    origin: true,
+    origin: "https://stock-analysis-frontend-iota.vercel.app",
     credentials: true
 }));
 app.use(express.json());
